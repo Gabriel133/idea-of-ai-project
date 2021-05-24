@@ -20,5 +20,5 @@ In a dark environment, this system may not be able to detect someone has fallen 
 Would like to use same technique and concept (Video Recognition) to detect fire via CCTV or camera. This system is not only useful and helpful to protect home and office, but also can use in forest. 
 
 ## Acknowledgments
-[Cameras can protect the elderly with intelligent fall detection] (https://www.securityworldmarket.com/int/News/Themes/cameras-can-protect-the-elderly-with-intelligent-fall-detection)
-[An eight-camera fall detection system using human fall pattern recognition via machine learning by a low-cost android box] (https://www.nature.com/articles/s41598-021-81115-9)
+* [Cameras can protect the elderly with intelligent fall detection](https://www.securityworldmarket.com/int/News/Themes/cameras-can-protect-the-elderly-with-intelligent-fall-detection)
+* [An eight-camera fall detection system using human fall pattern recognition via machine learning by a low-cost android box](https://www.nature.com/articles/s41598-021-81115-9)
