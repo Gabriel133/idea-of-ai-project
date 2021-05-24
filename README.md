@@ -1,4 +1,4 @@
-# Fall Dectection Using AI
+# Fall Detection Using AI
 Final project for the Building AI course
 
 ## Summary
